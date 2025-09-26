@@ -1,0 +1,4 @@
+weather-monitor/
+│── README.md
+│── requirements.txt
+│── weather.py
